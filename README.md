@@ -1,4 +1,4 @@
-# 🛡️ SOC Lab: Despliegue de Wazuh & Respuesta Activa ante Intrusiones
+# 🛡️ Despliegue de SOC Lab con Wazuh y Simulación de Ataques 
 
 **Autor:** Franco Aravena | [@francojaq2](https://github.com/francojaq2)
 **Especialidad:** Ingeniería en Ciberseguridad (SOC / Blue Team)
